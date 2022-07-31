@@ -1,4 +1,5 @@
 # Registration System
+## The Project is to build the registration form.
 Client accesses the server, and the server responds with regist.html
 ## Directory structure
 ![image](https://user-images.githubusercontent.com/55336314/182012000-e8f99967-f7ab-4dbb-8732-0aea8d08ada7.png)
@@ -10,7 +11,9 @@ After the client enters name and email, and presses the submit button, the clien
 ![image](https://user-images.githubusercontent.com/55336314/182012058-ebcd7dc8-55cd-44ab-99c7-57a2ecebda54.png)
 ## Decision
 Confirm sends the following webpages to the client depending on whether the client selects YES or NO.
+### when comfirm is no:
 ![image](https://user-images.githubusercontent.com/55336314/182012114-270c401a-cce7-4ed6-b182-67b081408f1e.png)
+### when comfirm is yes:
 ![image](https://user-images.githubusercontent.com/55336314/182012151-d027eaab-1675-4fa0-a84c-487138e63d54.png)
 
 The more detail is show in the Google Slides: [registration_Form](https://docs.google.com/presentation/d/19N2VL0GCRmUg8DUQx_WFWkEMlh0CQRDj9cKmn4iVEwk/edit?usp=sharing)
